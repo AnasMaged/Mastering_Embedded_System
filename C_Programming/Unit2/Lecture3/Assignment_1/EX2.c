@@ -3,7 +3,7 @@
     Write C Program to Print a Integer Entered by a User
 */
 
-#include <cstdio>
+#include <stdio.h>
 int main(){
     int x;
     printf("Enter a integer: ");
